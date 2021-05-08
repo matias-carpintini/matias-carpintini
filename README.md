@@ -1,9 +1,7 @@
-Full-stack developer with passion for Ruby on Rails. Founder of [Diabecarp](https://diabecarp.com), where we make diabetes suck less.
+👋 Full-stack developer with passion for Ruby on Rails. 
 
-### 📬 Get in Touch
+💻 Here's a few of the projects I'm working on:
+* [Diabecarp](https://diabecarp.com) - Make diabetes suck less
+* [Pizard](https://pizard.app) - Sell ​​online without paying commissions
 
-- Twitter: [@mcarpintini3](https://twitter.com/mcarpintini3)
-- Instagram: [@matiascarpintini](http://instagram.com/matiascarpintini/)
-- LinkedIn: [matiascarpintini](http://linkedin.com/in/matiascarpintini/)
-- Medium: [matiascarpintini.com](https://carpintinimatias.medium.com)
-- E-mail: [carpintinimatias@gmail.com](mailto:carpintinimatias@gmail.com)
+✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
