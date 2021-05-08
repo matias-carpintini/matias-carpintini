@@ -6,4 +6,4 @@
 
 ✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
 
-I like to write, and sometimes I do. If you're curious about, take a look to my [Medium](https://matiascarpintini.medium.com) profile.
+P.S. I like to write, and sometimes I do. If you're curious about, take a look to my [Medium](https://matiascarpintini.medium.com) profile.
