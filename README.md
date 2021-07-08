@@ -4,6 +4,7 @@
 * [Diabecarp](https://diabecarp.com) - Take control of your diabetes
 * [Pizard](https://pizard.app) - Sell ​​online without paying commissions
 * [Jobini](https://jobini.app) - The easiest way to send ENPS surveys
+* [Listry](https://listry.app) - Automate your repetitive stuff
 
 ✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
 
