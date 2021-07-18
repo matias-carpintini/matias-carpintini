@@ -1,4 +1,4 @@
-👋 I'm a Full-stack developer, with passion for Ruby on Rails and Startups.
+👋 I'm a Full-stack developer, passionate about Ruby on Rails and Startups.
 
 💻 Here's a few of the projects I'm working on:
 * [Diabecarp](https://diabecarp.com) - Take control of your diabetes
