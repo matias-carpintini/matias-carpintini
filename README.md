@@ -6,6 +6,7 @@
 * [Jobini](https://jobini.app) - The easiest way to send ENPS surveys
 * [Listry](https://listry.app) - Automate your repetitive stuff
 * [Betalk](https://betalk.app) - A plug and play community platform
+* [Pixaly](https://pixaly.app) - Contacless digital menus
 
 ✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
 
