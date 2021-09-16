@@ -2,8 +2,6 @@
 
 💻 Here's a few of the projects I'm working on:
 * [Diabecarp](https://diabecarp.com) - Take control of your diabetes
-* [Pizard](https://pizard.app) - Sell ​​online without paying commissions
-* [Jobini](https://jobini.app) - The easiest way to send ENPS surveys
 * [Listry](https://listry.app) - Automate your repetitive stuff
 * [Betalk](https://betalk.app) - A plug and play community platform
 * [Pixaly](https://pixaly.app) - Contacless digital menus
