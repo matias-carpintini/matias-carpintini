@@ -1,10 +1,10 @@
 👋 I'm a Full-stack developer, passionate about Ruby on Rails and Startups.
 
 💻 Here's a few of the projects I'm working on:
-* [Diabecarp](https://diabecarp.com) - Take control of your diabetes
 * [Listry](https://listry.app) - Automate your repetitive stuff
 * [Betalk](https://betalk.app) - A plug and play community platform
-* [Pixaly](https://pixaly.app) - Contacless digital menus
+* [Upwere](https://upwere.app) - Collect customer feedback
+* [Pitby](https://pitby.app) - The nomads app
 
 ✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
 
