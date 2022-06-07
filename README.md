@@ -3,7 +3,8 @@
 💻 Here's a few of the projects I'm working on:
 * [Listry](https://listry.app) - Automate your repetitive stuff
 * [Betalk](https://betalk.app) - A plug and play community platform
-* [Upwere](https://upwere.app) - Collect customer feedback
+* [Waitery](https://waitery.io) - Restaurants app
+* [Workby](https://workby.io) - Remote jobs for software devs
 * [Pitby](https://pitby.app) - The nomads app
 
 ✨ You can follow me on Twitter [@mcarpintini3](https://twitter.com/mcarpintini3)
